@@ -3,5 +3,23 @@
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "url": "^0.11.0"
-  }
+  },
+  "name": "nodefiles",
+  "version": "1.0.0",
+  "main": "errorwebchange.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantMudhiraj/Intro_to_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantMudhiraj/Intro_to_node/issues"
+  },
+  "homepage": "https://github.com/PrashantMudhiraj/Intro_to_node#readme",
+  "description": ""
 }
